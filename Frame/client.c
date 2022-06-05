@@ -20,7 +20,7 @@ int main(int argc, char * argv[])
     char message[BUF_SIZE];
     char servMessage[BUF_SIZE];
 
-    int sock; // 클라이언트 소켓 
+    int sock; 
     
     struct sockaddr_in serv_addr; // 서버 주소 정보
     
