@@ -13,5 +13,5 @@ TCP / IP
 ###### 관전모드 또는 입력모드로 전환합니다, 말할 수 있는 권한을 상대에게 넘겨줍니다.
 ###### quit : 대화를 종료합니다.
 
-###### Completed file name : ~
+###### Completed file name : ~Desert-Messanger~
 ###### 2022 06 07 JunBumHan
