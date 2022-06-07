@@ -14,9 +14,9 @@ TCP / IP
 ###### quit : 대화를 종료합니다.
 ######
 ### Desert-Messanger인 이유
-###### 사막은 지도를 만들지 못합니다. 왜냐하면 바람에 의해 흔적이 사라지기 떄문입니다.
-###### 그러므로 재가 만든 Desert-Messanger 는 송수신 log( 채팅 흔적 )을 남기지 않기 때문에 사막과 비슷하다 생각하여
-###### 프로젝트 이름을 Desert-Messanger 채 
+###### 사막은 지도를 만들지 못합니다.  왜냐하면 바람에 의해 흔적이 사라지기 떄문입니다.
+###### 마찬가지로 재가 만든 Desert-Messanger 는 Server와 Client가 송수신 할 떄  log( 채팅 흔적 )을 남기지 않기 때문에 사막과 비슷하다 생각하여
+###### 프로젝트 이름을 Desert-Messanger 채
 
 ###### Completed file name : ~Desert-Messanger~
 ###### 2022 06 07 JunBumHan
