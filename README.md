@@ -18,5 +18,5 @@ TCP / IP
 ###### 마찬가지로 재가 만든 Desert-Messanger 는 Server와 Client가 송수신 할 떄  log( 채팅 흔적 )을 남기지 않기 때문에 사막과 비슷하다 생각하여
 ###### 프로젝트 이름을 Desert-Messanger 채택하게 되었습니다.   
 
-###### Completed file name : ~~Desert-Messanger~~
+###### Completed file name : 완성본
 ###### 2022 06 07 JunBumHan
