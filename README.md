@@ -1,7 +1,7 @@
 # Desert-Messanger
 ### Socket Programing ( TCP / IP )
-오로지 1 대 1 채팅만 가능합니다.
-
+##### 오로지 1 대 1 채팅만 가능합니다.
+##### Linux 운영체제에서만 돌아값니다.
 
 ##### 동작 방법
 TCP / IP 
